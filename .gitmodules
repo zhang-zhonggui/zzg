@@ -1,0 +1,3 @@
+[submodule "themes/particlex"]
+    path = themes/particlex
+    url = https://github.com/zhang-zhonggui/hexo-theme-particlex.git
